@@ -1,7 +1,8 @@
 build:
   version: "1.0"
 
-bankAccount:
+banka
+ccount:
   message: "Welcome to YesBank accounts related QA APIs "
   contactDetails:
     name: "Vijay kumar prod lead"
