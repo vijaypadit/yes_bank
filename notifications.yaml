@@ -2,7 +2,7 @@
 build:
   version: "3.0"
 
-banks:
+notifications:
   message: "Welcome to YesBank accounts related QA APIs "
   contactDetails:
     name: "Vijay kumar  lead"
