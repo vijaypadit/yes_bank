@@ -12,4 +12,4 @@ notifications:
 twilio:
   account-sid: AC79e76ebaa79efa5a1873db58272f2716
   auth-token: b31cb00dc3ce5e542802c96e07074a27
-  from-number: 
+  from-number: 254685974
