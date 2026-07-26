@@ -10,6 +10,6 @@ notifications:
   onCallSupport:
     - 7503304263
 twilio:
-  account-sid: ACc5e42a26c084237c1607af25951d7502
-  auth-token: e75041d39f60a31129c66d2c78c9aa12
-  from-number: 254685974
+  account-sid: AC79e76ebaa79efa5a1873db58272f2716
+  auth-token: b31cb00dc3ce5e542802c96e07074a27
+  from-number: 
