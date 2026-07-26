@@ -9,3 +9,7 @@ notifications:
     email: "vijaycool294@gmail.com"
   onCallSupport:
     - 7503304263
+twilio:
+  account-sid: ACc5e42a26c084237c1607af25951d7502
+  auth-token: e75041d39f60a31129c66d2c78c9aa12
+  from-number: 254685974
